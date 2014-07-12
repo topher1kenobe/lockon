@@ -16,3 +16,9 @@
  * Make is distributed under the terms of the GNU GPL
  */
 @import url("../make/style.css");
+
+.site-title a {
+  text-indent: -10000px;
+  height: 1px;
+  display: block;
+}
