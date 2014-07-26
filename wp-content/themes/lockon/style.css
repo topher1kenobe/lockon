@@ -22,3 +22,29 @@
   height: 1px;
   display: block;
 }
+
+#site-footer .site-info {
+  display: none;
+}
+
+.post-type-archive-documents .entry-title {
+  font-size: 2.2rem;
+  margin: 0;
+}
+.post-type-archive-documents .entry-header {
+  margin-bottom: 0.5rem;
+}
+.post-type-archive-documents p {
+  font-size: 90%;
+}
+.document_icon {
+  float: left;
+  margin: 5px 10px 0 0;
+}
+.document_types {
+  margin: 0;
+}
+.post-type-archive-documents .documents {
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
